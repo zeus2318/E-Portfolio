@@ -498,7 +498,7 @@ export default function Portfolio() {
               </div>
               <div>
                 <strong>Contact #:</strong>{" "}
-                <a href="tel:+639165225609">+63 915 768 1726</a>
+                <a href="tel:+639157681726">+63 915 768 1726</a>
               </div>
             </div>
 
